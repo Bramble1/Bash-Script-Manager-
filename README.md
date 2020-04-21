@@ -15,3 +15,6 @@ As well as be able to execute and schedule any scripts in ur repo. WIthout havin
  3. ./upload_download - upload and download scripts to the server 
  
  
+ # Design
+ 
+ Modular design. So the programs can be used individually, like command line programs, or together within ./wrapper. This allows to use each function/feature individually or for the user to create their own wrapper to manage the executables.
