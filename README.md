@@ -21,8 +21,8 @@ As well as be able to execute and schedule any scripts in ur repo. WIthout havin
 
 
 # To do
-     1. Complete overhaul and tidy up of code in order to elimate bugs and inefficient code i may of written at the time
-     2. Replace the entire text structuring for an actual database, sql. However I'm not sure how bloated that will make the program... 
-     3. Output needs to be better.
-     4. Server and client requires a secure socket layer for security. As well as a login feature to make sure only the user can acces the file server.
-     5. Improve and create a better protocol of interacting with the server which is more efficient and less bug prone.
+   1. Complete overhaul and tidy up of code in order to elimate bugs and inefficient code i may of written at the time
+   2. Replace the entire text structuring for an actual database, sql. However I'm not sure how bloated that will make the program... 
+   3. Output needs to be better.
+   4. Server and client requires a secure socket layer for security. As well as a login feature to make sure only the user can acces the file server.
+   5. Improve and create a better protocol of interacting with the server which is more efficient and less bug prone.
