@@ -1,4 +1,4 @@
-# Bash-Script-Manager-
+# Bash-Script-Manager (v.1)
 (In progress, not complete)
 
 C program to manage bash scripts in a central repository. Useful for anyone who writes a lot of bash scripts such as system adminitrators and sometimes forget what a certain script does. With this program you can easily get access to ur scripts, query a script and view a user defined description of the script so you can remember what the script does, how many arguments it requires etc.
